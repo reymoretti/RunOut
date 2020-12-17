@@ -41,5 +41,5 @@ Composizione del progetto:
     3.5 run : serve solo per lanciare il sito
     
     
- in teoria c'è pure 'site.db' ma non so se lo crea automaticamente quando lanci oppure lo devo uploadare. è il database con le varie istanze.
+ in teoria c'è pure 'site.db' ma non so se te lo creerà automaticamente quando lanci oppure devi usare il mio. In ogni caso, è il database con le varie istanze.
     
