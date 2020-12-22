@@ -8,25 +8,6 @@ Composizione del progetto:
  2 - Templates folder: ognuno dei template è richiamato nel file routes.py per creare la pagina. Ognuno di essi
                        estende il template layout che dovrebbe comprendere la parte superiore del sito e la
                        sidebar che si vedono sempre.
- 
-    2.1 about: non serve a nulla per ora. Viene richiamato dalla route '/about' per creare una pagina dove
-               idealmente diciamo chi siamo
-               
-    2.2 account: pagina che mostra le info dell'utente
-    
-    2.3 article: semplice sintassi per gli articoli (Post), non ricordo se sta avendo un ruolo nel 
-                 programma (mi sembra di no, ma è da controllare)
-                 
-    2.4 home: html per la home page
-    
-    2.5 layout: struttura fisica degli altri templates. Infatti è pieno di <div> <h1> <h2> <h3> che se
-                opportunamente modificati/spostati possono cambiare la struttura del sito
-    
-    2.6 login: html per la sezione login
-    
-    2.7 program: non ricordo la sua funzione, non sembra importante ma è da controllare
-    
-    2.8 register: html per la sezione register
 
 3 - Python files
     
